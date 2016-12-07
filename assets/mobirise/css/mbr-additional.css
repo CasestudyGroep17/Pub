@@ -1,5 +1,6 @@
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+
 
 
 
@@ -442,13 +443,14 @@ h6,
 #ext_menu-4 .link,
 #ext_menu-4 .dropdown-item {
   color: #ffffff;
+  font-family: 'Ubuntu', sans-serif;
 }
 #ext_menu-4 .link {
-  font-size: 0.75rem;
+  font-size: 0.9rem;
 }
 #ext_menu-4 .dropdown-item,
 #ext_menu-4 .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 0.975rem;
 }
 #ext_menu-4 .link:hover,
 #ext_menu-4 .dropdown-item:hover,
@@ -997,6 +999,7 @@ h6,
   font-family: 'Montserrat', sans-serif;
   color: #000000;
 }
+
 #ext_menu-1e .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1013,13 +1016,14 @@ h6,
 #ext_menu-1e .link,
 #ext_menu-1e .dropdown-item {
   color: #ffffff;
+  font-family: 'Ubuntu', sans-serif;
 }
 #ext_menu-1e .link {
-  font-size: 0.75rem;
+  font-size: 0.9rem;
 }
 #ext_menu-1e .dropdown-item,
 #ext_menu-1e .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 0.975rem;
 }
 #ext_menu-1e .link:hover,
 #ext_menu-1e .dropdown-item:hover,
@@ -1061,6 +1065,20 @@ h6,
 #header3-1g .mbr-section-title,
 #header3-1g .mbr-section-subtitle {
   text-align: center;
+}
+#header3-1g SMALL {
+  color: #c1c1c1;
+}
+#header3-1g H3 {
+  color: #000000;
+}
+#content2-1m H4 {
+  color: #000000;
+  text-align: center;
+}
+#content7-1i P {
+  text-align: left;
+  color: #232323;
 }
 
 #ext_menu-x .hide-buttons .nav-btn {
