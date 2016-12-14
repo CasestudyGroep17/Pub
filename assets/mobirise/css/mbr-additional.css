@@ -630,6 +630,9 @@ h6,
 #header3-2k .mbr-section-subtitle {
   text-align: center;
 }
+#header3-2k H3 {
+  font-size: 30px;
+}
 
 
 #ext_menu-4 .hide-buttons .nav-btn {
@@ -702,12 +705,17 @@ h6,
 #header3-2m .mbr-section-subtitle {
   text-align: center;
 }
+#header3-2m H3 {
+  font-size: 30px;
+}
+
 
 #ext_menu-4 .hide-buttons .nav-btn {
   display: none !important;
 }
 #ext_menu-4 .navbar-caption {
   color: #ffffff;
+  font-family: 'Ubuntu', sans-serif;
 }
 #ext_menu-4 .navbar-toggler {
   color: #000000;
@@ -768,6 +776,9 @@ h6,
 #header3-2j .mbr-section-title,
 #header3-2j .mbr-section-subtitle {
   text-align: center;
+}
+#header3-2j H3 {
+  font-size: 30px;
 }
 
 
@@ -838,6 +849,9 @@ h6,
 #header3-2e .mbr-section-subtitle {
   text-align: center;
 }
+#header3-2e H3 {
+  font-size: 30px;
+}
 
 
 #ext_menu-4 .hide-buttons .nav-btn {
@@ -906,6 +920,9 @@ h6,
 #header3-2f .mbr-section-title,
 #header3-2f .mbr-section-subtitle {
   text-align: center;
+}
+#header3-2f H3 {
+  font-size: 30px;
 }
 #slider-2g H2 {
   color: #000000;
@@ -979,6 +996,9 @@ h6,
 #header3-2h .mbr-section-subtitle {
   text-align: center;
 }
+#header3-2h H3 {
+  font-size: 30px;
+}
 
 
 #ext_menu-4 .hide-buttons .nav-btn {
@@ -1047,6 +1067,9 @@ h6,
 #header3-2l .mbr-section-title,
 #header3-2l .mbr-section-subtitle {
   text-align: center;
+}
+#header3-2l H3 {
+  font-size: 30px;
 }
 
 
@@ -1123,6 +1146,7 @@ h6,
 #header3-1g H3 {
   color: #000000;
   text-align: right;
+  font-size: 30px;
 }
 #content2-1m H4 {
   color: #000000;
