@@ -907,6 +907,9 @@ h6,
 #header3-2f .mbr-section-subtitle {
   text-align: center;
 }
+#slider-2g H2 {
+  color: #000000;
+}
 
 
 #ext_menu-4 .hide-buttons .nav-btn {
@@ -1134,6 +1137,9 @@ h6,
 #content1-1q P {
   text-align: left;
   font-size: 14px;
+}
+#content1-2o P {
+  font-size: 8px;
 }
 #content1-20 P {
   font-size: 24px;
